@@ -1,0 +1,7 @@
+{
+  "name": "LandCafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
